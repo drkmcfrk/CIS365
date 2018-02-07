@@ -63,6 +63,7 @@ def get_stats(input_string):
 def loop():
 	input_string = open_file()
 	num_syllables, num_words, num_sentences, fk_score = get_stats(input_string)
+	this.is.a.test()
 
 
 
